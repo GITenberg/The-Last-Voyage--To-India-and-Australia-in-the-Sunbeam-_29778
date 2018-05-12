@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5713
     wikipedia: http://en.wikipedia.org/wiki/Anna_Brassey,_Baroness_Brassey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29778#The-Last-Voyage--To-India-and-Australia-in-the-Sunbeam-
 gutenberg_issued: '2009-08-24'
 gutenberg_type: Text
 identifiers:
