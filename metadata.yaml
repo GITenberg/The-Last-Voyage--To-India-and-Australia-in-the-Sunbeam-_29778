@@ -1,0 +1,45 @@
+_repo: The-Last-Voyage--To-India-and-Australia-in-the-Sunbeam-_29778
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Brassey, Thomas Brassey, Earl
+    alias: Brassey, Thomas, Sir
+    birthdate: 1836
+    deathdate: 1918
+    gutenberg_agent_id: '34179'
+    url: http://www.gutenberg.org/2009/agents/34179
+  illustrator:
+    agent_name: Pritchett, R. T. (Robert Taylor)
+    alias: Pritchett, Robert Taylor
+    birthdate: 1828
+    deathdate: 1907
+    gutenberg_agent_id: '34159'
+    url: http://www.gutenberg.org/2009/agents/34159
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brassey, Annie
+    alias: Brassey, Annie Allnutt
+    birthdate: 1839
+    deathdate: 1887
+    gutenberg_agent_id: '5713'
+    url: http://www.gutenberg.org/2009/agents/5713
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Brassey,_Baroness_Brassey
+description: ''
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29778'
+  lccn: 05027619
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages around the world'
+- !lcsh 'Sunbeam (Yacht)'
+title: 'The Last Voyage: To India and Australia, in the ''Sunbeam'''
+url: http://www.gutenberg.org/ebooks/29778
